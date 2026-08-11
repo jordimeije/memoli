@@ -1,0 +1,9 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "y_FycORTgT4Ox76tFh-5s"
+uri = "file://memoli-website-code.zip"
+type = "unspecified"
+title = "Memoli website broncode"
+description = "ZIP-export met de website, het beheerpaneel, de API-server, gedeelde databasecode en projectconfiguratie. Dependencies, caches en geheimen zijn niet inbegrepen."
